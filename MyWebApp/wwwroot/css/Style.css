@@ -1,0 +1,38 @@
+﻿body {
+}
+
+ul.produto {
+    font-size: larger;
+}
+
+.bgForm {
+    background: #b9adad
+}
+
+#login {
+    cursor: pointer;
+}
+
+.popup-form {
+    padding: 5px;
+    border: 2px #000000 inset;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.popup-form input {
+    width: 200px;
+}
+
+.popup-form label {
+    width: 150px;
+    display: inline-block;
+}
+
+.popup-form input[type=checkbox], .popup-form input[type=submit] {
+    width: auto;
+}
+
+.marginTop {
+    margin-top: 70px;
+}

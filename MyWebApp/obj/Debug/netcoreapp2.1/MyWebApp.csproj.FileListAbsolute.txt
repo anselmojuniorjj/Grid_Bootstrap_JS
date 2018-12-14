@@ -1,0 +1,14 @@
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.deps.json
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.runtimeconfig.json
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.runtimeconfig.dev.json
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.dll
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.1\MyWebApp.pdb
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.csprojAssemblyReference.cache
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.csproj.CoreCompileInputs.cache
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.RazorAssemblyInfo.cache
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.RazorAssemblyInfo.cs
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.AssemblyInfoInputs.cache
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.AssemblyInfo.cs
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.RazorTargetAssemblyInfo.cache
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.dll
+C:\workspace\visualStudio\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.1\MyWebApp.pdb
